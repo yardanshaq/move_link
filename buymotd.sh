@@ -96,7 +96,6 @@ echo -e "${GREEN}RAM Usage   ${NC}: $RAM_USED / $RAM_TOTAL MB (${RAM_PCT}%)"
 echo -e "${GREEN}Disk Usage  ${NC}: $DISK_USED / $DISK_TOTAL ($DISK_PCT)"
 
 echo -e "${CYAN}-------------------------------------------------${NC}"
-echo -e "${GREEN}Expired Date${NC}: $EXP_DATE"
 echo -e "${GREEN}Sisa Waktu  ${NC}: $STATUS_TIME"
 echo
 EOF

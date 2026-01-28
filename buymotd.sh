@@ -75,7 +75,6 @@ echo -e "${CYAN}=================================================${NC}"
 echo -e "${YELLOW} 🚀 NAT VM by Shaq${NC}"
 echo -e "${CYAN}=================================================${NC}"
 
-echo -e "${GREEN}User        ${NC}: $USER"
 echo -e "${GREEN}Hostname    ${NC}: $HOSTNAME"
 echo -e "${GREEN}OS          ${NC}: $OS"
 echo -e "${GREEN}Kernel      ${NC}: $KERNEL"
